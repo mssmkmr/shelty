@@ -1,1 +1,5 @@
-## Welcome to Shelty Cognitive Remediation Training Software Project
+## Shelty Project
+
+Shelty is a Cognitive Remediation Training Software Projects
+
+Topics are under contruction.
