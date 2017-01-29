@@ -32,7 +32,7 @@ public abstract class Card
     {
         assert(number > 0 && number < 5):
         this.mark = mark;
-        this.color = color:
+        this.color = color;
         this.number = number;
     }
 
