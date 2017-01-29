@@ -1,4 +1,4 @@
-package org.shelty.wisconsin;
+package org.shelty.task.wisconsin;
 
 /**
  * Card class to be sorted by Wisconsin Card Sorting Task.
