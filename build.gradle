@@ -8,5 +8,8 @@ compileJava.options.encoding = 'utf-8'
 
 repositories {
     mavenCentral()
+}
+
+dependencies {
     compile 'org.controlsfx:controlsfx:8.40.12'
 }
