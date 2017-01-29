@@ -1,0 +1,12 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+version          = '0.0.0'
+applicationName  = 'Shelty'
+mainClassName    = 'org.shelty.Shelty'
+compileJava.options.encoding = 'utf-8'
+
+repositories {
+    mavenCentral()
+    compile 'org.controlsfx:controlsfx:8.40.12'
+}
